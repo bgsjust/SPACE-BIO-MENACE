@@ -4,7 +4,7 @@
 {                                                             }
 { It's a clone of the game Asteroids.                         }
 { Made by myself: Bruno Sousa in 2025                         }
-{ You can freely use it in your projects, try to inprove it   }
+{ You can freely use it in your projects, try to improve it   }
 { Just give credit to the author!                             }
 { Next steps :                                                }
 { -Improve graphics                                           }
